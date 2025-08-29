@@ -1,0 +1,3 @@
+# 1. Executive Summary
+
+Box Chat AI là một ứng dụng chatbot thông minh được xây dựng dựa trên nền tảng LobeChat, nhằm giúp người dùng dễ dàng tìm kiếm các địa điểm ăn chơi và lên kế hoạch chi tiết cho các chuyến đi của họ. Sản phẩm giải quyết vấn đề người dùng phải dành nhiều thời gian tìm kiếm thông tin từ nhiều nguồn khác nhau và tự tổng hợp để lên kế hoạch. Với dữ liệu địa điểm sẵn có từ file `places.json`, Box Chat AI cung cấp trải nghiệm được cá nhân hóa thông qua việc tương tác đơn giản qua giao diện chat, mang đến danh sách địa điểm được đề xuất chính xác và lịch trình đi chơi được sắp xếp hợp lý.

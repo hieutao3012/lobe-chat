@@ -1,0 +1,3 @@
+# 2. Problem Statement
+
+Người dùng hiện tại gặp khó khăn và mất nhiều thời gian khi lên kế hoạch cho các hoạt động đi chơi. Quá trình này thường bao gồm việc tìm kiếm thông tin địa điểm trên nhiều nền tảng (Google Maps, Foody, Travel blogs...), so sánh đánh giá, khoảng cách, giá cả, giờ mở cửa, sau đó tự tổng hợp lại thành một lịch trình. Điều này không chỉ tẻ nhạt mà còn dễ bỏ sót thông tin quan trọng. Các giải pháp hiện có thường chỉ tập trung vào một khía cạnh (ví dụ: chỉ tìm kiếm địa điểm hoặc chỉ quản lý lịch trình), chưa có một công cụ nào tích hợp cả hai chức năng một cách thông minh và thân thiện.
